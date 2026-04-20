@@ -167,17 +167,6 @@ I care about software that is structured, inspectable, and useful beyond the dem
   </tr>
 </table>
 
-<details>
-  <summary><strong>Earlier projects</strong></summary>
-  <br />
-  <a href="https://github.com/DhruvShah-Dev/Currency-Converter">Currency Converter</a> |
-  <a href="https://github.com/DhruvShah-Dev/Weather-App">Weather App</a> |
-  <a href="https://github.com/DhruvShah-Dev/Guess-The-Number-Game">Guess The Number Game</a> |
-  <a href="https://github.com/DhruvShah-Dev/To-Do-List-App">To-Do List App</a>
-  <br /><br />
-  These show the earlier Python application layer of the portfolio before the shift toward more structured backend, analytics, and applied AI work.
-</details>
-
 ---
 
 ## `04` Current Focus
