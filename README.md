@@ -20,7 +20,6 @@
   <a href="./Dhruv_Shah_Backend_Engineer_Resume.pdf">Resume</a>
   &nbsp;|&nbsp;
   <a href="https://github.com/DhruvShah-Dev?tab=repositories">Repositories</a>
-  <!-- Add portfolio link here if/when you launch one -->
 </p>
 
 ---
@@ -57,12 +56,12 @@ I care about software that is structured, inspectable, and useful beyond the dem
 ## `02` Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,fastapi,nextjs,git,githubactions&theme=dark" alt="Core stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,fastapi,nextjs,postgres,docker,linux,git,githubactions&theme=dark" alt="Core stack icons" />
 </p>
 
 <table>
   <tr>
-    <td valign="top" width="25%">
+    <td valign="top" width="20%">
 
 **Languages**
 
@@ -71,43 +70,50 @@ I care about software that is structured, inspectable, and useful beyond the dem
 `JavaScript`
 
   </td>
-    <td valign="top" width="25%">
+    <td valign="top" width="20%">
 
 **Backend / APIs**
 
 `FastAPI`  
 `Next.js App Router`  
+`REST APIs`  
 `Server Routes`
 
   </td>
-    <td valign="top" width="25%">
+    <td valign="top" width="20%">
 
-**Data / Analytics**
+**Data Engineering**
 
 `Data Pipelines`  
-`Streamlit`  
-`FastF1` `Jolpica`  
-`Heuristic Scoring`
+`Pandas`  
+`NumPy`  
+`PostgreSQL`
 
   </td>
-    <td valign="top" width="25%">
+    <td valign="top" width="20%">
 
-**AI / Retrieval**
+**Analytics / AI**
 
+`Streamlit`  
 `FAISS`  
+`FastF1` `Jolpica`  
 `Sentence Transformers`  
-`Phi-2` `llama.cpp`  
 `Semantic Search`
+
+  </td>
+    <td valign="top" width="20%">
+
+**Infra / Tooling**
+
+`Docker`  
+`Linux`  
+`GitHub Actions`  
+`CI/CD`  
+`Git`
 
   </td>
   </tr>
 </table>
-
-<details>
-  <summary><strong>Customize if applicable</strong></summary>
-  <br />
-  Keep only what is fully true for your day-to-day workflow: <code>Docker</code> <code>PostgreSQL</code> <code>Linux</code> <code>Pandas</code> <code>NumPy</code> <code>CI/CD</code>
-</details>
 
 ---
 
@@ -121,8 +127,8 @@ I care about software that is structured, inspectable, and useful beyond the dem
 **Formula 1 analytics web app with a race strategy simulator and fantasy lineup optimizer**
 
 - Built as a flagship product surface, not just a statistics dashboard, with workflows that help users explore strategy and optimization decisions.
-- Combines frontend delivery, backend application logic, and Python-based data ingestion into one coherent analytics experience.
-- Demonstrates product-minded engineering: domain data is shaped into tooling people can actually interact with and reason about.
+- Combines frontend delivery, backend application logic, API-driven features, and a Python-based data pipeline in one coherent analytics experience.
+- Demonstrates product-minded engineering by turning domain data into tooling users can interact with, compare, and reason about.
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvShah-Dev&repo=f1-insightx&hide_border=true&bg_color=00000000&title_color=e2e8f0&text_color=cbd5e1&icon_color=38bdf8" alt="f1-insightx repo card" />
@@ -139,9 +145,9 @@ I care about software that is structured, inspectable, and useful beyond the dem
 ### [Data Pipeline] [reddit-moderator-bot-detection](https://github.com/DhruvShah-Dev/reddit-moderator-bot-detection)
 **Batch-based moderator analysis pipeline with explainable heuristic bot scoring**
 
-- Designed around append-safe collection, resumable processing, and investigation-ready outputs across large subreddit batches.
+- Designed around batch collection, resumable processing, and investigation-ready outputs across large subreddit batches.
 - Emphasizes transparent scoring logic over black-box classification, making the system easier to inspect and defend.
-- Shows pipeline design, behavior analysis, and dashboard-oriented presentation through Streamlit.
+- Shows data collection, pipeline design, behavior analysis, and dashboard-oriented presentation through Streamlit.
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvShah-Dev&repo=reddit-moderator-bot-detection&hide_border=true&bg_color=00000000&title_color=e2e8f0&text_color=cbd5e1&icon_color=38bdf8" alt="reddit moderator bot detection repo card" />
 
@@ -153,7 +159,7 @@ I care about software that is structured, inspectable, and useful beyond the dem
 
 - Built around document ingestion, embeddings, vector search, and lightweight local-model question answering.
 - Applies AI in a concrete setting: helping users query private documents without relying on cloud-hosted APIs.
-- Shows backend integration, retrieval workflows, and privacy-conscious product design rather than AI for its own sake.
+- Shows retrieval-based AI, backend integration, and privacy-conscious product design rather than AI for its own sake.
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvShah-Dev&repo=doc-ai&hide_border=true&bg_color=00000000&title_color=e2e8f0&text_color=cbd5e1&icon_color=38bdf8" alt="doc-ai repo card" />
 
@@ -229,7 +235,6 @@ I care about software that is structured, inspectable, and useful beyond the dem
   <a href="./Dhruv_Shah_Backend_Engineer_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-1d4ed8?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume" />
   </a>
-  <!-- Add a portfolio badge here when you launch one -->
 </p>
 
 <p align="center">
