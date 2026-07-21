@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,45:0f766e,100:38bdf8&text=Dhruv%20Shah&fontAlign=50&fontAlignY=38&fontColor=f8fafc&fontSize=56&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Dashboards%20%7C%20Business%20Insights&descAlign=50&descAlignY=62&animation=fadeIn" alt="Dhruv Shah data analyst banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,42:134e4a,100:38bdf8&text=Dhruv%20Shah&fontAlign=50&fontAlignY=35&fontColor=f8fafc&fontSize=58&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Dashboards%20%7C%20Insight%20Delivery&descAlign=50&descAlignY=61&animation=fadeIn" alt="Dhruv Shah data analyst banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1400&color=CFFAFE&center=true&vCenter=true&width=900&lines=Turning+messy+data+into+clear+business+decisions;Building+SQL+%2B+Python+analysis+workflows+and+dashboards;Pivoting+from+backend+engineering+into+data+analytics" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1400&color=A7F3D0&center=true&vCenter=true&width=900&lines=Data+analysis+that+ends+with+a+decision;SQL%2C+Python%2C+dashboards%2C+and+clear+storytelling;Building+analytics+tools+with+engineering+discipline" alt="Profile headline animation" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/DhruvShah-Dev?tab=repositories"><img src="https://img.shields.io/badge/Focus-Data%20Analytics-020617?style=for-the-badge&labelColor=0f172a" alt="Data analytics focus" /></a>
-  <a href="https://github.com/DhruvShah-Dev/f1-insightx"><img src="https://img.shields.io/badge/Flagship-F1%20InsightX-0f766e?style=for-the-badge&labelColor=0f172a" alt="F1 InsightX" /></a>
-  <a href="https://github.com/DhruvShah-Dev/reddit-moderator-bot-detection"><img src="https://img.shields.io/badge/Pipeline-Behavior%20Analysis-0369a1?style=for-the-badge&labelColor=0f172a" alt="Behavior analysis pipeline" /></a>
+  <a href="https://github.com/DhruvShah-Dev?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-Analytics%20Projects-020617?style=for-the-badge&labelColor=0f172a" alt="Analytics projects" /></a>
+  <a href="https://f1-insightx.vercel.app"><img src="https://img.shields.io/badge/Live-F1%20InsightX-0f766e?style=for-the-badge&labelColor=0f172a" alt="F1 InsightX live app" /></a>
+  <a href="https://www.linkedin.com/in/dhruvshah-ai/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0369a1?style=for-the-badge&labelColor=0f172a" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
@@ -19,35 +19,33 @@
   &nbsp;|&nbsp;
   <a href="./Dhruv_Shah_Backend_Engineer_Resume.pdf">Resume</a>
   &nbsp;|&nbsp;
-  <a href="https://github.com/DhruvShah-Dev?tab=repositories">Projects</a>
+  <a href="https://github.com/DhruvShah-Dev?tab=repositories">Repositories</a>
 </p>
 
 ---
 
-## `01` Data Analyst Profile
+## `01` Profile
 
 <table>
   <tr>
     <td valign="top" width="62%">
 
-### I translate data into decisions.
+### Data Analyst focused on useful, defensible insight.
 
-I am pivoting into a **Data Analyst** role with a software engineering foundation. My work sits at the point where raw data becomes something a business, product team, or operator can actually use.
+I work across data cleaning, exploratory analysis, dashboards, and decision support. My background in software engineering helps me build analysis workflows that are structured, repeatable, and easier to trust.
 
-I focus on:
+I care about the full path from raw data to action:
 
-- writing clear SQL and Python analysis workflows
-- cleaning, transforming, and validating data before drawing conclusions
-- building dashboards and interactive tools for exploration
-- explaining patterns, tradeoffs, and risks in plain language
-- using engineering habits to make analysis reproducible
-
-My edge is practical: I can move from dataset to pipeline to dashboard to recommendation without treating those as separate worlds.
+- define the business question and metric clearly
+- clean and validate the data before analysis
+- use SQL and Python to find patterns and compare scenarios
+- build dashboards that make the next step obvious
+- explain findings with assumptions, limits, and recommendations
 
   </td>
     <td valign="top" width="38%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DhruvShah-Dev&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=67e8f9&text_color=cbd5e1&icon_color=2dd4bf" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=DhruvShah-Dev&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=67e8f9&text_color=cbd5e1&icon_color=2dd4bf" alt="Dhruv Shah GitHub stats" />
 
   </td>
   </tr>
@@ -55,10 +53,10 @@ My edge is practical: I can move from dataset to pipeline to dashboard to recomm
 
 ---
 
-## `02` Analyst Toolkit
+## `02` Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,js,ts,nextjs,fastapi,docker,linux,git,githubactions&theme=dark" alt="Core stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,js,ts,nextjs,fastapi,docker,linux,git,githubactions&theme=dark" alt="Core technology icons" />
 </p>
 
 <table>
@@ -70,47 +68,47 @@ My edge is practical: I can move from dataset to pipeline to dashboard to recomm
 `Python`<br>
 `Pandas`<br>
 `NumPy`<br>
-`Exploratory Analysis`
+`EDA`
 
   </td>
     <td valign="top" width="20%">
 
-**Databases**
+**SQL**
 
-`SQL`<br>
 `PostgreSQL`<br>
-`Data Modeling`<br>
-`Joins / Aggregates`
+`Joins`<br>
+`Aggregates`<br>
+`Data Modeling`
 
   </td>
     <td valign="top" width="20%">
 
-**Visualization**
+**Dashboards**
 
 `Streamlit`<br>
-`Dashboards`<br>
+`KPI Views`<br>
 `Charts`<br>
-`KPI Views`
+`Reporting`
 
   </td>
     <td valign="top" width="20%">
 
 **Data Workflows**
 
-`ETL Pipelines`<br>
-`Batch Processing`<br>
+`ETL`<br>
+`Batch Jobs`<br>
 `Validation`<br>
 `Automation`
 
   </td>
     <td valign="top" width="20%">
 
-**Engineering**
+**Product Build**
 
 `APIs`<br>
 `FastAPI`<br>
-`Docker`<br>
-`GitHub Actions`
+`Next.js`<br>
+`Docker`
 
   </td>
   </tr>
@@ -118,18 +116,24 @@ My edge is practical: I can move from dataset to pipeline to dashboard to recomm
 
 ---
 
-## `03` Featured Analytics Work
+## `03` Selected Work
 
 <table>
   <tr>
     <td valign="top" width="100%">
 
 ### [F1 InsightX](https://github.com/DhruvShah-Dev/f1-insightx)
-**Formula 1 analytics product with strategy simulation and fantasy lineup optimization**
+**Formula 1 analytics web app for race strategy simulation and fantasy lineup optimization**
 
-- Turns race, driver, and performance data into an interactive decision surface.
-- Combines data ingestion, backend logic, and product-facing analytics workflows.
-- Shows how I approach analysis: define the question, structure the data, compare scenarios, and make outputs easy to reason about.
+- Built a live analytics product around scenario comparison and decision support.
+- Turns racing data into interactive workflows for strategy, performance, and lineup analysis.
+- Combines data processing, backend logic, dashboard thinking, and polished product delivery.
+
+<p>
+  <a href="https://f1-insightx.vercel.app"><strong>Live app</strong></a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/DhruvShah-Dev/f1-insightx"><strong>Repository</strong></a>
+</p>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvShah-Dev&repo=f1-insightx&hide_border=true&bg_color=00000000&title_color=67e8f9&text_color=cbd5e1&icon_color=2dd4bf" alt="F1 InsightX repository card" />
@@ -143,26 +147,32 @@ My edge is practical: I can move from dataset to pipeline to dashboard to recomm
   <tr>
     <td valign="top" width="50%">
 
-### [Reddit Moderator Bot Detection](https://github.com/DhruvShah-Dev/reddit-moderator-bot-detection)
-**Behavior analysis pipeline with explainable heuristic scoring**
+### [Doc AI](https://github.com/DhruvShah-Dev/doc-ai)
+**Private document Q&A assistant for PDFs, DOCX, and TXT files**
 
-- Collects and processes moderator activity across subreddit batches.
-- Uses transparent scoring rules so results can be inspected instead of blindly trusted.
-- Demonstrates data collection, cleaning, repeatable processing, and investigation-ready reporting.
+- Converts unstructured files into searchable knowledge.
+- Uses ingestion, embeddings, vector search, and question answering.
+- Relevant to analyst workflows where research material needs to become queryable.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvShah-Dev&repo=reddit-moderator-bot-detection&hide_border=true&bg_color=00000000&title_color=67e8f9&text_color=cbd5e1&icon_color=2dd4bf" alt="Reddit moderator bot detection repository card" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvShah-Dev&repo=doc-ai&hide_border=true&bg_color=00000000&title_color=67e8f9&text_color=cbd5e1&icon_color=2dd4bf" alt="Doc AI repository card" />
 
   </td>
     <td valign="top" width="50%">
 
-### [Doc AI](https://github.com/DhruvShah-Dev/doc-ai)
-**Private document Q&A tool using ingestion, embeddings, and retrieval**
+### [BeliefState](https://github.com/DhruvShah-Dev/beliefstate)
+**Python project with a public project page**
 
-- Converts unstructured files into searchable knowledge using embeddings and vector search.
-- Shows experience with text data, retrieval logic, and user-facing analysis workflows.
-- Useful for analyst work where source documents, notes, and research need to become queryable.
+- Demonstrates Python-based project work and public documentation.
+- Adds evidence of shipping beyond a local script.
+- Shows comfort moving between code, explanation, and user-facing project surfaces.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvShah-Dev&repo=doc-ai&hide_border=true&bg_color=00000000&title_color=67e8f9&text_color=cbd5e1&icon_color=2dd4bf" alt="Doc AI repository card" />
+<p>
+  <a href="https://altioralabs.github.io/beliefstate/"><strong>Project page</strong></a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/DhruvShah-Dev/beliefstate"><strong>Repository</strong></a>
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvShah-Dev&repo=beliefstate&hide_border=true&bg_color=00000000&title_color=67e8f9&text_color=cbd5e1&icon_color=2dd4bf" alt="BeliefState repository card" />
 
   </td>
   </tr>
@@ -170,29 +180,29 @@ My edge is practical: I can move from dataset to pipeline to dashboard to recomm
 
 ---
 
-## `04` What I Bring To A Data Team
+## `04` How I Work
 
 <table>
   <tr>
     <td valign="top" width="33%">
 
-**Decision Framing**
+**Frame**
 
-I start with the business question, define the metric, and make assumptions visible before jumping into charts.
-
-  </td>
-    <td valign="top" width="33%">
-
-**Reliable Analysis**
-
-My engineering background helps me build repeatable notebooks, scripts, pipelines, and checks instead of one-off analysis.
+Start with the decision, audience, metric, and grain of analysis.
 
   </td>
     <td valign="top" width="33%">
 
-**Clear Delivery**
+**Validate**
 
-I care about dashboards and summaries that make the next action obvious, not just visually polished.
+Check source quality, missingness, joins, outliers, and definitions before trusting results.
+
+  </td>
+    <td valign="top" width="33%">
+
+**Deliver**
+
+Make the result readable through dashboards, summaries, and clear recommendations.
 
   </td>
   </tr>
@@ -203,17 +213,17 @@ I care about dashboards and summaries that make the next action obvious, not jus
 ## `05` Current Focus
 
 ```text
-Role Target        Data Analyst / Junior Data Analyst / Product Analyst
-Core Stack         SQL, Python, Pandas, PostgreSQL, Streamlit
-Portfolio Theme    Dashboards, data storytelling, workflow automation
-Differentiator     Analyst mindset backed by software engineering execution
+Target Roles       Data Analyst / Junior Data Analyst / Product Analyst
+Primary Tools      SQL, Python, Pandas, PostgreSQL, Streamlit
+Portfolio Direction Analytics products, dashboards, KPI reporting, automation
+Working Style      Structured analysis, clean delivery, practical recommendations
 ```
 
-I am sharpening my portfolio around business-facing analysis: KPI definitions, cleaner SQL, dashboard storytelling, and projects that end with a recommendation.
+I am building a portfolio around analysis that is easy to inspect: clear questions, reproducible workflows, visual summaries, and concise recommendations.
 
 ---
 
-## `06` GitHub Activity
+## `06` Activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvShah-Dev&layout=compact&hide_border=true&bg_color=00000000&title_color=67e8f9&text_color=cbd5e1" alt="Top languages" />
@@ -222,7 +232,7 @@ I am sharpening my portfolio around business-facing analysis: KPI definitions, c
 
 ---
 
-## `07` Connect
+## `07` Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhruvshah-ai/">
@@ -237,5 +247,5 @@ I am sharpening my portfolio around business-facing analysis: KPI definitions, c
 </p>
 
 <p align="center">
-  Open to Data Analyst, Junior Data Analyst, Product Analyst, and analytics-focused engineering conversations.
+  Open to Data Analyst, Junior Data Analyst, Product Analyst, and analytics-focused roles.
 </p>
