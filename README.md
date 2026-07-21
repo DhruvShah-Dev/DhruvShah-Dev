@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,45:1d4ed8,100:06b6d4&text=Dhruv%20Shah&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=48&desc=Backend%20Systems%20%E2%80%A2%20Data%20Engineering%20%E2%80%A2%20Applied%20AI&descAlign=50&descAlignY=60&animation=fadeIn" alt="Dhruv Shah banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,45:0f766e,100:38bdf8&text=Dhruv%20Shah&fontAlign=50&fontAlignY=38&fontColor=f8fafc&fontSize=56&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Dashboards%20%7C%20Business%20Insights&descAlign=50&descAlignY=62&animation=fadeIn" alt="Dhruv Shah data analyst banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1600&color=E2E8F0&center=true&vCenter=true&width=900&lines=Software+Engineer+focused+on+backend+systems+and+data+products;Building+scalable+services%2C+data+pipelines%2C+and+API-driven+tools;Practical+analytics+and+AI+work%2C+grounded+in+real+systems" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1400&color=CFFAFE&center=true&vCenter=true&width=900&lines=Turning+messy+data+into+clear+business+decisions;Building+SQL+%2B+Python+analysis+workflows+and+dashboards;Pivoting+from+backend+engineering+into+data+analytics" alt="Typing intro" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/DhruvShah-Dev?tab=repositories"><img src="https://img.shields.io/badge/Focus-Backend%20%26%20Data%20Systems-0f172a?style=for-the-badge&labelColor=111827" alt="Backend and data systems" /></a>
-  <a href="https://github.com/DhruvShah-Dev/f1-insightx"><img src="https://img.shields.io/badge/Flagship-f1--insightx-1d4ed8?style=for-the-badge&labelColor=111827" alt="f1-insightx" /></a>
-  <a href="https://github.com/DhruvShah-Dev/doc-ai"><img src="https://img.shields.io/badge/Builds-Practical%20AI%20Utilities-0891b2?style=for-the-badge&labelColor=111827" alt="Practical AI utilities" /></a>
+  <a href="https://github.com/DhruvShah-Dev?tab=repositories"><img src="https://img.shields.io/badge/Focus-Data%20Analytics-020617?style=for-the-badge&labelColor=0f172a" alt="Data analytics focus" /></a>
+  <a href="https://github.com/DhruvShah-Dev/f1-insightx"><img src="https://img.shields.io/badge/Flagship-F1%20InsightX-0f766e?style=for-the-badge&labelColor=0f172a" alt="F1 InsightX" /></a>
+  <a href="https://github.com/DhruvShah-Dev/reddit-moderator-bot-detection"><img src="https://img.shields.io/badge/Pipeline-Behavior%20Analysis-0369a1?style=for-the-badge&labelColor=0f172a" alt="Behavior analysis pipeline" /></a>
 </p>
 
 <p align="center">
@@ -19,33 +19,35 @@
   &nbsp;|&nbsp;
   <a href="./Dhruv_Shah_Backend_Engineer_Resume.pdf">Resume</a>
   &nbsp;|&nbsp;
-  <a href="https://github.com/DhruvShah-Dev?tab=repositories">Repositories</a>
+  <a href="https://github.com/DhruvShah-Dev?tab=repositories">Projects</a>
 </p>
 
 ---
 
-## `01` Identity
+## `01` Data Analyst Profile
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="62%">
 
-### Backend, data, and product-minded engineering
+### I translate data into decisions.
 
-I build systems that move cleanly from data ingestion to usable product surfaces.
+I am pivoting into a **Data Analyst** role with a software engineering foundation. My work sits at the point where raw data becomes something a business, product team, or operator can actually use.
 
-My portfolio is strongest where these areas overlap:
-- backend services and API-oriented architecture
-- data pipelines, transformation, and analysis workflows
-- analyst-facing and developer-facing tooling
-- practical AI utilities built around retrieval, search, and real usage
+I focus on:
 
-I care about software that is structured, inspectable, and useful beyond the demo layer.
+- writing clear SQL and Python analysis workflows
+- cleaning, transforming, and validating data before drawing conclusions
+- building dashboards and interactive tools for exploration
+- explaining patterns, tradeoffs, and risks in plain language
+- using engineering habits to make analysis reproducible
+
+My edge is practical: I can move from dataset to pipeline to dashboard to recommendation without treating those as separate worlds.
 
   </td>
-    <td valign="top" width="40%">
+    <td valign="top" width="38%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DhruvShah-Dev&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=e2e8f0&text_color=cbd5e1&icon_color=38bdf8" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=DhruvShah-Dev&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=67e8f9&text_color=cbd5e1&icon_color=2dd4bf" alt="GitHub stats" />
 
   </td>
   </tr>
@@ -53,63 +55,62 @@ I care about software that is structured, inspectable, and useful beyond the dem
 
 ---
 
-## `02` Tech Stack
+## `02` Analyst Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,fastapi,nextjs,postgres,docker,linux,git,githubactions&theme=dark" alt="Core stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,js,ts,nextjs,fastapi,docker,linux,git,githubactions&theme=dark" alt="Core stack icons" />
 </p>
 
 <table>
   <tr>
     <td valign="top" width="20%">
 
-**Languages**
+**Analysis**
 
-`Python`  
-`TypeScript`  
-`JavaScript`
-
-  </td>
-    <td valign="top" width="20%">
-
-**Backend / APIs**
-
-`FastAPI`  
-`Next.js App Router`  
-`REST APIs`  
-`Server Routes`
+`Python`<br>
+`Pandas`<br>
+`NumPy`<br>
+`Exploratory Analysis`
 
   </td>
     <td valign="top" width="20%">
 
-**Data Engineering**
+**Databases**
 
-`Data Pipelines`  
-`Pandas`  
-`NumPy`  
-`PostgreSQL`
-
-  </td>
-    <td valign="top" width="20%">
-
-**Analytics / AI**
-
-`Streamlit`  
-`FAISS`  
-`FastF1` `Jolpica`  
-`Sentence Transformers`  
-`Semantic Search`
+`SQL`<br>
+`PostgreSQL`<br>
+`Data Modeling`<br>
+`Joins / Aggregates`
 
   </td>
     <td valign="top" width="20%">
 
-**Infra / Tooling**
+**Visualization**
 
-`Docker`  
-`Linux`  
-`GitHub Actions`  
-`CI/CD`  
-`Git`
+`Streamlit`<br>
+`Dashboards`<br>
+`Charts`<br>
+`KPI Views`
+
+  </td>
+    <td valign="top" width="20%">
+
+**Data Workflows**
+
+`ETL Pipelines`<br>
+`Batch Processing`<br>
+`Validation`<br>
+`Automation`
+
+  </td>
+    <td valign="top" width="20%">
+
+**Engineering**
+
+`APIs`<br>
+`FastAPI`<br>
+`Docker`<br>
+`GitHub Actions`
 
   </td>
   </tr>
@@ -117,21 +118,21 @@ I care about software that is structured, inspectable, and useful beyond the dem
 
 ---
 
-## `03` Featured Projects
+## `03` Featured Analytics Work
 
 <table>
   <tr>
     <td valign="top" width="100%">
 
-### [Flagship] [f1-insightx](https://github.com/DhruvShah-Dev/f1-insightx)
-**Formula 1 analytics web app with a race strategy simulator and fantasy lineup optimizer**
+### [F1 InsightX](https://github.com/DhruvShah-Dev/f1-insightx)
+**Formula 1 analytics product with strategy simulation and fantasy lineup optimization**
 
-- Built as a flagship product surface, not just a statistics dashboard, with workflows that help users explore strategy and optimization decisions.
-- Combines frontend delivery, backend application logic, API-driven features, and a Python-based data pipeline in one coherent analytics experience.
-- Demonstrates product-minded engineering by turning domain data into tooling users can interact with, compare, and reason about.
+- Turns race, driver, and performance data into an interactive decision surface.
+- Combines data ingestion, backend logic, and product-facing analytics workflows.
+- Shows how I approach analysis: define the question, structure the data, compare scenarios, and make outputs easy to reason about.
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvShah-Dev&repo=f1-insightx&hide_border=true&bg_color=00000000&title_color=e2e8f0&text_color=cbd5e1&icon_color=38bdf8" alt="f1-insightx repo card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvShah-Dev&repo=f1-insightx&hide_border=true&bg_color=00000000&title_color=67e8f9&text_color=cbd5e1&icon_color=2dd4bf" alt="F1 InsightX repository card" />
 </p>
 
   </td>
@@ -142,26 +143,26 @@ I care about software that is structured, inspectable, and useful beyond the dem
   <tr>
     <td valign="top" width="50%">
 
-### [Data Pipeline] [reddit-moderator-bot-detection](https://github.com/DhruvShah-Dev/reddit-moderator-bot-detection)
-**Batch-based moderator analysis pipeline with explainable heuristic bot scoring**
+### [Reddit Moderator Bot Detection](https://github.com/DhruvShah-Dev/reddit-moderator-bot-detection)
+**Behavior analysis pipeline with explainable heuristic scoring**
 
-- Designed around batch collection, resumable processing, and investigation-ready outputs across large subreddit batches.
-- Emphasizes transparent scoring logic over black-box classification, making the system easier to inspect and defend.
-- Shows data collection, pipeline design, behavior analysis, and dashboard-oriented presentation through Streamlit.
+- Collects and processes moderator activity across subreddit batches.
+- Uses transparent scoring rules so results can be inspected instead of blindly trusted.
+- Demonstrates data collection, cleaning, repeatable processing, and investigation-ready reporting.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvShah-Dev&repo=reddit-moderator-bot-detection&hide_border=true&bg_color=00000000&title_color=e2e8f0&text_color=cbd5e1&icon_color=38bdf8" alt="reddit moderator bot detection repo card" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvShah-Dev&repo=reddit-moderator-bot-detection&hide_border=true&bg_color=00000000&title_color=67e8f9&text_color=cbd5e1&icon_color=2dd4bf" alt="Reddit moderator bot detection repository card" />
 
   </td>
     <td valign="top" width="50%">
 
-### [Applied AI] [doc-ai](https://github.com/DhruvShah-Dev/doc-ai)
-**Local/private document Q&A assistant for PDFs, DOCX, and TXT**
+### [Doc AI](https://github.com/DhruvShah-Dev/doc-ai)
+**Private document Q&A tool using ingestion, embeddings, and retrieval**
 
-- Built around document ingestion, embeddings, vector search, and lightweight local-model question answering.
-- Applies AI in a concrete setting: helping users query private documents without relying on cloud-hosted APIs.
-- Shows retrieval-based AI, backend integration, and privacy-conscious product design rather than AI for its own sake.
+- Converts unstructured files into searchable knowledge using embeddings and vector search.
+- Shows experience with text data, retrieval logic, and user-facing analysis workflows.
+- Useful for analyst work where source documents, notes, and research need to become queryable.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvShah-Dev&repo=doc-ai&hide_border=true&bg_color=00000000&title_color=e2e8f0&text_color=cbd5e1&icon_color=38bdf8" alt="doc-ai repo card" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvShah-Dev&repo=doc-ai&hide_border=true&bg_color=00000000&title_color=67e8f9&text_color=cbd5e1&icon_color=2dd4bf" alt="Doc AI repository card" />
 
   </td>
   </tr>
@@ -169,26 +170,29 @@ I care about software that is structured, inspectable, and useful beyond the dem
 
 ---
 
-## `04` Current Focus
+## `04` What I Bring To A Data Team
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
 
-**Building**
+**Decision Framing**
 
-- backend systems that stay maintainable as scope grows
-- data flows that are clear, reproducible, and operationally practical
-- analytics products that feel useful, not just technically correct
+I start with the business question, define the metric, and make assumptions visible before jumping into charts.
 
   </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
 
-**Optimizing For**
+**Reliable Analysis**
 
-- cleaner service boundaries and API design
-- stronger pipeline reliability and observability
-- applied AI patterns with real product utility
+My engineering background helps me build repeatable notebooks, scripts, pipelines, and checks instead of one-off analysis.
+
+  </td>
+    <td valign="top" width="33%">
+
+**Clear Delivery**
+
+I care about dashboards and summaries that make the next action obvious, not just visually polished.
 
   </td>
   </tr>
@@ -196,36 +200,42 @@ I care about software that is structured, inspectable, and useful beyond the dem
 
 ---
 
-## `05` Activity
+## `05` Current Focus
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvShah-Dev&layout=compact&hide_border=true&bg_color=00000000&title_color=e2e8f0&text_color=cbd5e1" alt="Top languages" />
-  <img height="165" src="https://streak-stats.demolab.com?user=DhruvShah-Dev&hide_border=true&background=FFFFFF00&ring=38bdf8&fire=38bdf8&currStreakLabel=e2e8f0&sideLabels=cbd5e1&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" alt="GitHub streak" />
-</p>
+```text
+Role Target        Data Analyst / Junior Data Analyst / Product Analyst
+Core Stack         SQL, Python, Pandas, PostgreSQL, Streamlit
+Portfolio Theme    Dashboards, data storytelling, workflow automation
+Differentiator     Analyst mindset backed by software engineering execution
+```
 
-<!-- Optional: keep only if you like the extra movement and it remains visually clean -->
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DhruvShah-Dev/DhruvShah-Dev/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-</p>
--->
+I am sharpening my portfolio around business-facing analysis: KPI definitions, cleaner SQL, dashboard storytelling, and projects that end with a recommendation.
 
 ---
 
-## `06` Connect
+## `06` GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvShah-Dev&layout=compact&hide_border=true&bg_color=00000000&title_color=67e8f9&text_color=cbd5e1" alt="Top languages" />
+  <img height="165" src="https://streak-stats.demolab.com?user=DhruvShah-Dev&hide_border=true&background=FFFFFF00&ring=2dd4bf&fire=38bdf8&currStreakLabel=67e8f9&sideLabels=cbd5e1&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" alt="GitHub streak" />
+</p>
+
+---
+
+## `07` Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhruvshah-ai/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:dhruv.shah.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-020617?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="./Dhruv_Shah_Backend_Engineer_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-1d4ed8?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-0f766e?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume" />
   </a>
 </p>
 
 <p align="center">
-  Open to backend, data, and systems-oriented engineering conversations.
+  Open to Data Analyst, Junior Data Analyst, Product Analyst, and analytics-focused engineering conversations.
 </p>
