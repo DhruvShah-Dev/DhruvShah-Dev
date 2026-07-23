@@ -1,9 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:030712,40:111827,72:0f766e,100:f59e0b&text=Dhruv%20Shah&fontAlign=50&fontAlignY=36&fontColor=f8fafc&fontSize=64&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Python%20%7C%20Azure%20%7C%20Open%20Source&descAlign=50&descAlignY=60&animation=fadeIn" alt="Dhruv Shah cinematic data analyst banner" />
+  <img src="./assets/data-analyst-command-center.png" alt="Cinematic data analyst command center with dashboards, SQL panels, and data platform visuals" />
+</p>
+
+<h1 align="center">Dhruv Shah</h1>
+
+<h3 align="center">Data Analyst | SQL | Power BI | Python | Azure | Open Source</h3>
+
+<p align="center">
+  I turn raw signals into decisions through clean data, clear dashboards, and practical recommendations.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1400&color=FBBF24&center=true&vCenter=true&width=920&lines=I+turn+raw+signals+into+decisions.;I+build+dashboards%2C+queries%2C+and+analysis+workflows.;I+contribute+to+open-source+data+tools." alt="Animated profile story" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1400&color=F59E0B&center=true&vCenter=true&width=860&lines=Ask+%E2%86%92+Clean+%E2%86%92+Query+%E2%86%92+Visualize+%E2%86%92+Explain+%E2%86%92+Recommend;SQL-first+analysis+with+Power+BI+storytelling;Open-source+contributor+in+the+data+tooling+ecosystem" alt="Animated data analyst workflow" />
 </p>
 
 <p align="center">
@@ -15,147 +23,116 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=111827&text=ACT%20I%20%2F%20THE%20SIGNAL&fontAlign=50&fontAlignY=53&fontColor=f8fafc&fontSize=25&desc=where%20questions%20become%20metrics&descAlign=50&descAlignY=78&descSize=13&descColor=fbbf24" alt="Act I section banner" />
-</p>
+## The Signal
+
+Every dataset starts as noise. My work is to find the question, shape the evidence, and deliver the insight in a form people can use.
 
 <table>
   <tr>
-    <td valign="top" width="64%">
+    <td valign="top" width="34%">
 
-### Data Analyst building insight with a maker's discipline.
+### Analyst Command Center
 
-Every dataset has a story, but it needs structure before it can be trusted. I work from the first question to the final recommendation: define the metric, clean the source, query the pattern, build the view, and explain what should happen next.
-
-My profile is built around:
-
-- **Decision-first analysis**: business question, metric, audience, and action before visuals.
-- **Analyst-grade tooling**: SQL, Power BI, Python, PostgreSQL, Azure, and Excel.
-- **Readable delivery**: dashboards and summaries that make patterns easy to compare.
-- **Open-source momentum**: learning and contributing around data platforms, BI, and developer workflows.
+`Business Questions`<br>
+`KPI Design`<br>
+`SQL Analysis`<br>
+`Data Cleaning`<br>
+`Power BI Dashboards`<br>
+`Insight Delivery`
 
   </td>
-    <td valign="top" width="36%">
+    <td valign="top" width="33%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DhruvShah-Dev&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=111827&title_color=fbbf24&text_color=e5e7eb&icon_color=14b8a6" alt="Dhruv Shah GitHub stats" />
+### Core Stack
+
+`SQL`<br>
+`Power BI`<br>
+`Python`<br>
+`PostgreSQL`<br>
+`Azure`<br>
+`Excel`
+
+  </td>
+    <td valign="top" width="33%">
+
+### Working Style
+
+`Decision-first`<br>
+`Evidence-backed`<br>
+`Dashboard-ready`<br>
+`Well-documented`<br>
+`Open-source aware`<br>
+`Recommendation-focused`
 
   </td>
   </tr>
 </table>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0f766e&text=ACT%20II%20%2F%20THE%20TOOLS&fontAlign=50&fontAlignY=53&fontColor=ffffff&fontSize=25&desc=the%20stack%20behind%20the%20story&descAlign=50&descAlignY=78&descSize=13&descColor=fef3c7" alt="Act II section banner" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
 </p>
 
-<table>
-  <tr>
-    <td valign="top" width="25%">
-
-**Find**
-
-`SQL`<br>
-`PostgreSQL`<br>
-`Filtering`<br>
-`Joins`
-
-  </td>
-    <td valign="top" width="25%">
-
-**Shape**
-
-`Python`<br>
-`Pandas`<br>
-`NumPy`<br>
-`Data Cleaning`
-
-  </td>
-    <td valign="top" width="25%">
-
-**Show**
-
-`Power BI`<br>
-`Excel`<br>
-`Dashboards`<br>
-`KPI Reporting`
-
-  </td>
-    <td valign="top" width="25%">
-
-**Scale**
-
-`Azure`<br>
-`Data Pipelines`<br>
-`Documentation`<br>
-`Open Source`
-
-  </td>
-  </tr>
-</table>
+```text
+Ask -> Clean -> Query -> Visualize -> Explain -> Recommend
+```
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=92400e&text=ACT%20III%20%2F%20THE%20EVIDENCE&fontAlign=50&fontAlignY=53&fontColor=ffffff&fontSize=25&desc=projects%20that%20turn%20data%20into%20a%20surface&descAlign=50&descAlignY=78&descSize=13&descColor=fef3c7" alt="Act III section banner" />
-</p>
-
-<table>
-  <tr>
-    <td valign="top" width="100%">
+## The Evidence
 
 ### [F1 InsightX](https://github.com/DhruvShah-Dev/f1-insightx)
-**Formula 1 analytics platform for race strategy simulation and fantasy lineup optimization**
 
-This is the flagship story: data becomes a decision surface. The project turns racing context into interactive comparison, helping users reason through strategy, performance, and lineup choices.
+**Question:** How can race strategy and lineup decisions become easier to compare from performance data?
+
+**Output:** A live Formula 1 analytics product with strategy simulation and fantasy lineup optimization.
+
+**Analyst value:** turns domain data into a decision surface where users can compare scenarios instead of reading static numbers.
+
+**Tools and themes:** `data modeling` `scenario analysis` `dashboard thinking` `performance comparison` `decision support`
 
 <p>
-  <a href="https://f1-insightx.vercel.app"><img src="https://img.shields.io/badge/Live%20App-0f766e?style=for-the-badge&logo=vercel&logoColor=white" alt="F1 InsightX live app" /></a>
+  <a href="https://f1-insightx.vercel.app"><img src="https://img.shields.io/badge/Live%20App-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="F1 InsightX live app" /></a>
   <a href="https://github.com/DhruvShah-Dev/f1-insightx"><img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="F1 InsightX repository" /></a>
 </p>
-
-`scenario analysis` &nbsp; `dashboard thinking` &nbsp; `strategy simulation` &nbsp; `data product delivery`
-
-  </td>
-  </tr>
-</table>
 
 <table>
   <tr>
     <td valign="top" width="50%">
 
 ### [Doc AI](https://github.com/DhruvShah-Dev/doc-ai)
-**Document analysis assistant for searchable knowledge**
 
-Analysts often work with more than tables. This project explores how documents can be ingested, indexed, retrieved, and questioned so research material becomes easier to inspect.
+**Question:** How can unstructured documents become searchable research material?
+
+**Output:** A private document assistant for PDFs, DOCX, and TXT files.
+
+**Analyst value:** supports research-heavy workflows where source material needs to become inspectable and queryable.
+
+`document analysis` `retrieval` `research workflow` `knowledge extraction`
 
 <p>
   <a href="https://github.com/DhruvShah-Dev/doc-ai"><img src="https://img.shields.io/badge/Repository-111827?style=flat-square&logo=github&logoColor=white" alt="Doc AI repository" /></a>
-  <img src="https://img.shields.io/badge/Document%20Analysis-0f766e?style=flat-square" alt="Document Analysis" />
-  <img src="https://img.shields.io/badge/Retrieval-374151?style=flat-square" alt="Retrieval" />
 </p>
 
   </td>
     <td valign="top" width="50%">
 
 ### [BeliefState](https://github.com/DhruvShah-Dev/beliefstate)
-**Python project with public documentation**
 
-A compact proof of delivery: code, documentation, and a published project page. It reflects the part of analysis work that matters after the notebook is done: making the work readable.
+**Question:** How can a technical idea be packaged so others can inspect it?
+
+**Output:** A Python project with public documentation and a published project page.
+
+**Analyst value:** shows the delivery layer of analysis: not just doing the work, but making it readable.
+
+`Python` `documentation` `published project` `explainable work`
 
 <p>
-  <a href="https://altioralabs.github.io/beliefstate/"><img src="https://img.shields.io/badge/Project%20Page-0f766e?style=flat-square&logo=githubpages&logoColor=white" alt="BeliefState project page" /></a>
+  <a href="https://altioralabs.github.io/beliefstate/"><img src="https://img.shields.io/badge/Project%20Page-0F766E?style=flat-square&logo=githubpages&logoColor=white" alt="BeliefState project page" /></a>
   <a href="https://github.com/DhruvShah-Dev/beliefstate"><img src="https://img.shields.io/badge/Repository-111827?style=flat-square&logo=github&logoColor=white" alt="BeliefState repository" /></a>
-  <img src="https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
 
   </td>
@@ -164,9 +141,54 @@ A compact proof of delivery: code, documentation, and a published project page. 
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=334155&text=ACT%20IV%20%2F%20THE%20COMMONS&fontAlign=50&fontAlignY=53&fontColor=ffffff&fontSize=25&desc=open-source%20data%20tools%20and%20community%20workflows&descAlign=50&descAlignY=78&descSize=13&descColor=fbbf24" alt="Act IV section banner" />
-</p>
+## The Stack
+
+<table>
+  <tr>
+    <td valign="top" width="25%">
+
+### Query
+
+I use SQL to define the grain, join cleanly, aggregate carefully, and make metrics traceable.
+
+`SQL` `PostgreSQL` `joins` `aggregations`
+
+  </td>
+    <td valign="top" width="25%">
+
+### Model
+
+I use Python when the work needs cleaning, exploration, repeatable transformation, or deeper analysis.
+
+`Python` `Pandas` `NumPy` `EDA`
+
+  </td>
+    <td valign="top" width="25%">
+
+### Visualize
+
+I use BI thinking to turn metrics into dashboards that support comparison and action.
+
+`Power BI` `Excel` `KPIs` `reporting`
+
+  </td>
+    <td valign="top" width="25%">
+
+### Ship
+
+I care about documentation, version control, and open-source workflows because analysis should be inspectable.
+
+`Azure` `GitHub` `docs` `open source`
+
+  </td>
+  </tr>
+</table>
+
+---
+
+## Open Source Trail
+
+I keep my open-source work close to the data ecosystem: visualization, databases, and contribution workflows.
 
 <table>
   <tr>
@@ -174,36 +196,27 @@ A compact proof of delivery: code, documentation, and a published project page. 
 
 ### [Apache Superset](https://github.com/DhruvShah-Dev/superset)
 
-<p>
-  <img src="https://img.shields.io/badge/Data%20Visualization-111827?style=flat-square" alt="Data Visualization" />
-  <img src="https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white" alt="Python" />
-</p>
+Open-source BI and data exploration platform.
 
-Open-source BI and data exploration platform. Relevant to dashboard systems, visualization workflows, and analytics product thinking.
+`visualization` `dashboards` `analytics`
 
   </td>
     <td valign="top" width="33%">
 
 ### [Supabase](https://github.com/DhruvShah-Dev/supabase)
 
-<p>
-  <img src="https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/Data%20Platform-0f766e?style=flat-square" alt="Data Platform" />
-</p>
+Open-source Postgres platform for data-backed applications.
 
-Open-source Postgres platform. Relevant to data-backed applications, database foundations, and modern analytics infrastructure.
+`PostgreSQL` `data platform` `backend data`
 
   </td>
     <td valign="top" width="33%">
 
 ### [First Contributions](https://github.com/DhruvShah-Dev/first-contributions)
 
-<p>
-  <img src="https://img.shields.io/badge/Open%20Source-111827?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Open Source" />
-  <img src="https://img.shields.io/badge/Community-f59e0b?style=flat-square" alt="Community" />
-</p>
+Community project for learning contribution workflows.
 
-Open-source community project focused on helping beginners understand contribution workflows and collaboration.
+`open source` `collaboration` `community`
 
   </td>
   </tr>
@@ -211,67 +224,30 @@ Open-source community project focused on helping beginners understand contributi
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0f172a&text=ACT%20V%20%2F%20THE%20METHOD&fontAlign=50&fontAlignY=53&fontColor=ffffff&fontSize=25&desc=how%20I%20move%20from%20question%20to%20recommendation&descAlign=50&descAlignY=78&descSize=13&descColor=5eead4" alt="Act V section banner" />
-</p>
-
-<table>
-  <tr>
-    <td valign="top" width="25%">
-
-**Frame**
-
-What decision are we trying to make?
-
-  </td>
-    <td valign="top" width="25%">
-
-**Prepare**
-
-Can the data be trusted at this grain?
-
-  </td>
-    <td valign="top" width="25%">
-
-**Analyze**
-
-What changed, where, and for whom?
-
-  </td>
-    <td valign="top" width="25%">
-
-**Deliver**
-
-What should the next action be?
-
-  </td>
-  </tr>
-</table>
+## Current Focus
 
 ```text
 Target Roles       Data Analyst / Junior Data Analyst / Product Analyst
-Core Stack         SQL, Power BI, Python, PostgreSQL, Azure, Excel
-Portfolio Theme    Data storytelling, dashboard delivery, open-source data tools
-Working Style      Clear questions, clean evidence, practical recommendations
+Primary Stack      SQL, Power BI, Python, PostgreSQL, Azure, Excel
+Portfolio Story    Dashboards, business questions, open-source data tools
+Signature          Clear questions, clean evidence, practical recommendations
 ```
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvShah-Dev&layout=compact&hide_border=true&bg_color=111827&title_color=fbbf24&text_color=e5e7eb" alt="Top languages" />
-  <img height="165" src="https://streak-stats.demolab.com?user=DhruvShah-Dev&hide_border=true&background=111827&ring=14b8a6&fire=f59e0b&currStreakLabel=fbbf24&sideLabels=e5e7eb&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" alt="GitHub contribution streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DhruvShah-Dev&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=111827&title_color=f59e0b&text_color=e5e7eb&icon_color=14b8a6" alt="Dhruv Shah GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=DhruvShah-Dev&hide_border=true&background=111827&ring=14b8a6&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=e5e7eb&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" alt="GitHub contribution streak" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:030712,45:0f766e,100:f59e0b&text=Let%27s%20turn%20the%20signal%20into%20a%20decision.&fontAlign=50&fontAlignY=68&fontColor=f8fafc&fontSize=28" alt="Contact footer banner" />
+  <strong>Open to Data Analyst, Junior Data Analyst, Product Analyst, and open-source analytics opportunities.</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhruvshah-ai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:dhruv.shah.ai@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="./Dhruv_Shah_Backend_Engineer_Resume.pdf"><img src="https://img.shields.io/badge/Resume-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
-</p>
-
-<p align="center">
-  Open to Data Analyst, Junior Data Analyst, Product Analyst, and open-source analytics opportunities.
+  <a href="https://www.linkedin.com/in/dhruvshah-ai/">LinkedIn</a>
+  &nbsp;|&nbsp;
+  <a href="mailto:dhruv.shah.ai@gmail.com">Email</a>
+  &nbsp;|&nbsp;
+  <a href="./Dhruv_Shah_Backend_Engineer_Resume.pdf">Resume</a>
 </p>
