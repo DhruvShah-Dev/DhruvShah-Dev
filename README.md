@@ -1,106 +1,104 @@
 <p align="center">
-  <img src="./assets/data-analyst-command-center.png" alt="Cinematic data analyst command center with dashboards, SQL panels, data pipelines, and cloud analytics visuals" width="100%" />
+  <img src="./assets/data-analyst-command-center-solid.png" alt="Cinematic black, amber, and deep green data analyst command center with SQL dashboards, KPI charts, ETL pipelines, and database diagrams" width="100%" />
 </p>
 
 <h1 align="center">Dhruv Shah</h1>
 
-<h3 align="center">Data Analyst | SQL | Power BI | Python | Azure | Open Source Analytics</h3>
+<h3 align="center">Data Analyst | SQL | Python | Power BI | Excel | ETL | Azure Data | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=F59E0B&center=true&vCenter=true&width=900&lines=I+turn+raw+data+into+clear+decisions.;SQL-first+analysis.+Power+BI+storytelling.+Python+automation.;Open-source+work+across+BI%2C+Postgres%2C+DuckDB%2C+and+analytics+tools." alt="Animated headline for Dhruv Shah's data analyst profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=800&color=F2A900&center=true&vCenter=true&width=930&lines=Turning+complex+data+into+business+insight.;SQL+analysis%2C+Power+BI+dashboards%2C+Python+automation.;Open-source+work+across+BI%2C+databases%2C+SQL+tools%2C+and+analytics." alt="Animated data analyst headline" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhruvshah-ai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:dhruv.shah.ai@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/DhruvShah-Dev?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source-374151?style=for-the-badge&logo=github&logoColor=white" alt="Open source repositories" /></a>
+  <a href="https://www.linkedin.com/in/dhruvshah-ai/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:dhruv.shah.ai@gmail.com"><img src="https://img.shields.io/badge/Email-1F5A3D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/DhruvShah-Dev?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source-F2A900?style=for-the-badge&logo=github&logoColor=111111" alt="Open source repositories" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=2,8,14,30" alt="" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=10&color=111111&section=header&animation=fadeIn" alt="" width="100%" />
 </p>
 
-## Data Analyst Signal
+## Analyst Value
 
-I build analysis that hiring managers can inspect: clear business questions, clean data logic, defensible metrics, and dashboards that lead to decisions.
+I build the full analytics path: collect the raw data, clean it, model it, analyze it, visualize it, and explain the decision.
 
 ```text
-Business Question -> Data Cleaning -> SQL Analysis -> KPI Design -> Dashboard -> Recommendation
+Question -> Data Cleaning -> ETL -> SQL -> KPI Analysis -> Dashboard -> Business Recommendation
 ```
 
 <table>
   <tr>
     <td valign="top" width="33%">
 
-### What I Analyze
+### From LinkedIn
 
-`business performance`  
-`product behavior`  
-`operational trends`  
-`decision workflows`  
-`data quality`  
-`metric movement`
-
-  </td>
-    <td valign="top" width="33%">
-
-### How I Work
-
-`SQL-first reasoning`  
-`dashboard storytelling`  
-`documented assumptions`  
-`repeatable notebooks`  
-`open-source workflows`  
-`stakeholder-ready summaries`
+`Data Analyst`  
+`Business Intelligence`  
+`Data Visualization`  
+`Dashboard Development`  
+`ETL Pipelines`  
+`Reporting and KPI Analysis`
 
   </td>
     <td valign="top" width="33%">
 
-### Tools I Use
+### Technical Stack
 
 `SQL`  
-`Power BI`  
 `Python`  
-`Pandas`  
-`PostgreSQL`  
-`Azure`  
+`Power BI`  
 `Excel`  
-`GitHub`
+`Power Query`  
+`DAX`  
+`Pandas`  
+`NumPy`
+
+  </td>
+    <td valign="top" width="33%">
+
+### Data Platforms
+
+`PostgreSQL`  
+`MySQL`  
+`SQL Server`  
+`MongoDB`  
+`Microsoft Azure`  
+`REST APIs`  
+`Jupyter Notebook`  
+`Docker`
 
   </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,azure,git,github,vscode" alt="Python, PostgreSQL, Azure, Git, GitHub, and VS Code icons" />
+  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2A900?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Python-1F5A3D?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Excel-1F5A3D?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Azure%20Data-111111?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=10&color=F2A900&section=header&animation=fadeIn" alt="" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=80&color=0:0F172A,50:0F766E,100:F59E0B&section=header&text=Selected%20Analysis%20Work&fontColor=E5E7EB&fontSize=24&animation=fadeIn" alt="Selected analysis work section divider" width="100%" />
-</p>
-
-## Selected Analysis Work
+## Flagship Projects
 
 ### [F1 InsightX](https://github.com/DhruvShah-Dev/f1-insightx)
 
-**Live analytics product:** a Formula 1 decision surface with a race strategy simulator and fantasy lineup optimizer.
+**Portfolio-ready Formula 1 analytics product** with two decision surfaces: a race strategy simulator and a fantasy lineup optimizer.
 
-**Data analyst value:** translates performance data into comparison-ready scenarios, helping users evaluate tradeoffs instead of reading isolated numbers.
+**Why it matters:** this is the strongest proof of applied analytics thinking: scenario comparison, performance metrics, user-facing analysis, and polished delivery.
 
-**Keywords:** `scenario analysis` `KPI design` `comparative analysis` `dashboard UX` `decision support` `TypeScript`
+**Signals for hiring managers:** `scenario analysis` `KPI thinking` `decision support` `data product design` `performance comparison` `TypeScript`
 
 <p>
-  <a href="https://f1-insightx.vercel.app"><img src="https://img.shields.io/badge/Live%20App-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="F1 InsightX live app" /></a>
-  <a href="https://github.com/DhruvShah-Dev/f1-insightx"><img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="F1 InsightX repository" /></a>
+  <a href="https://f1-insightx.vercel.app"><img src="https://img.shields.io/badge/Live%20Product-F2A900?style=for-the-badge&logo=vercel&logoColor=111111" alt="F1 InsightX live product" /></a>
+  <a href="https://github.com/DhruvShah-Dev/f1-insightx"><img src="https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=white" alt="F1 InsightX source" /></a>
 </p>
 
 <table>
@@ -109,14 +107,14 @@ Business Question -> Data Cleaning -> SQL Analysis -> KPI Design -> Dashboard ->
 
 ### [Doc AI](https://github.com/DhruvShah-Dev/doc-ai)
 
-**Document analytics assistant:** local Q&A over PDFs, DOCX, and TXT files using semantic search.
+Local document Q&A for PDFs, DOCX, and TXT files, built for private research workflows.
 
-**Data analyst value:** supports research workflows where unstructured documents need to become searchable, traceable evidence.
+**Data analyst angle:** turns unstructured files into searchable evidence, which is useful for research, reporting, audit trails, and knowledge extraction.
 
-`document analysis` `semantic search` `FAISS` `private research workflow` `JavaScript`
+`document analytics` `semantic search` `FAISS` `research workflows` `JavaScript`
 
 <p>
-  <a href="https://github.com/DhruvShah-Dev/doc-ai"><img src="https://img.shields.io/badge/View%20Repository-111827?style=flat-square&logo=github&logoColor=white" alt="Doc AI repository" /></a>
+  <a href="https://github.com/DhruvShah-Dev/doc-ai"><img src="https://img.shields.io/badge/Source-111111?style=flat-square&logo=github&logoColor=white" alt="Doc AI source" /></a>
 </p>
 
   </td>
@@ -124,14 +122,14 @@ Business Question -> Data Cleaning -> SQL Analysis -> KPI Design -> Dashboard ->
 
 ### [Avar](https://github.com/DhruvShah-Dev/avar)
 
-**Python project:** a public codebase that reinforces Python fluency and inspectable development.
+Python codebase showing the repeatable-development side of analytics work.
 
-**Data analyst value:** shows the engineering discipline behind repeatable analysis: version control, readable code, and reproducible logic.
+**Data analyst angle:** clean Python projects matter because analysis must be reproducible, inspectable, and easy to improve.
 
-`Python` `automation` `code quality` `repeatable workflows`
+`Python` `automation` `reproducible logic` `code quality`
 
 <p>
-  <a href="https://github.com/DhruvShah-Dev/avar"><img src="https://img.shields.io/badge/View%20Repository-111827?style=flat-square&logo=github&logoColor=white" alt="Avar repository" /></a>
+  <a href="https://github.com/DhruvShah-Dev/avar"><img src="https://img.shields.io/badge/Source-111111?style=flat-square&logo=github&logoColor=white" alt="Avar source" /></a>
 </p>
 
   </td>
@@ -139,12 +137,12 @@ Business Question -> Data Cleaning -> SQL Analysis -> KPI Design -> Dashboard ->
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=30,14,8,2" alt="" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=10&color=1F5A3D&section=header&animation=fadeIn" alt="" width="100%" />
 </p>
 
-## Open Source Analytics Ecosystem
+## Open Source Contribution Map
 
-I keep my open-source activity close to the tools data teams actually use: BI, databases, SQL workspaces, and documentation.
+This is a direct map of the open-source ecosystems I work around.
 
 <table>
   <tr>
@@ -152,83 +150,106 @@ I keep my open-source activity close to the tools data teams actually use: BI, d
 
 ### [Apache Superset](https://github.com/DhruvShah-Dev/superset)
 
-Open-source data visualization and data exploration platform.
+BI, dashboards, data exploration, visualization workflows.
 
-`BI` `dashboards` `data exploration`
+`open-source BI` `charts` `dashboards`
 
   </td>
     <td valign="top" width="25%">
 
 ### [Supabase](https://github.com/DhruvShah-Dev/supabase)
 
-Open-source Postgres platform for data-backed applications.
+Postgres platform for data-backed and analytics-ready applications.
 
-`PostgreSQL` `data platform` `analytics apps`
+`PostgreSQL` `data platform` `databases`
 
   </td>
     <td valign="top" width="25%">
 
 ### [DuckDB Web](https://github.com/DhruvShah-Dev/duckdb-web)
 
-Documentation and website work around the DuckDB analytics database.
+Documentation and web work around an analytics database.
 
-`DuckDB` `analytics database` `documentation`
+`DuckDB` `analytics database` `docs`
 
   </td>
     <td valign="top" width="25%">
 
 ### [Tabularis](https://github.com/DhruvShah-Dev/tabularis)
 
-SQL workspace for PostgreSQL, MySQL, SQLite, DuckDB, ClickHouse, and more.
+SQL workspace covering PostgreSQL, MySQL, SQLite, DuckDB, ClickHouse, and more.
 
-`SQL workspace` `databases` `notebooks`
+`SQL workspace` `notebooks` `visual explain`
 
   </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvShah-Dev&bg_color=0f172a&color=e5e7eb&line=f59e0b&point=14b8a6&area=true&hide_border=true&custom_title=Open%20Source%20Activity" alt="Dhruv Shah GitHub activity graph" />
-</p>
+| Activity Area | Repositories | What It Shows |
+| --- | --- | --- |
+| Analytics products | [`f1-insightx`](https://github.com/DhruvShah-Dev/f1-insightx), [`doc-ai`](https://github.com/DhruvShah-Dev/doc-ai) | I can turn data problems into usable products. |
+| BI and visualization | [`superset`](https://github.com/DhruvShah-Dev/superset) | I understand how analysts explore, slice, chart, and explain data. |
+| Databases and SQL tooling | [`supabase`](https://github.com/DhruvShah-Dev/supabase), [`duckdb-web`](https://github.com/DhruvShah-Dev/duckdb-web), [`tabularis`](https://github.com/DhruvShah-Dev/tabularis) | I stay close to the tools behind real analytics workflows. |
+| Community contribution | [`first-contributions`](https://github.com/DhruvShah-Dev/first-contributions), [`intro`](https://github.com/DhruvShah-Dev/intro), [`oppia`](https://github.com/DhruvShah-Dev/oppia) | I work in public, learn contribution flow, and document clearly. |
+
+## Experience Snapshot
+
+### Binghamton University
+
+Research analytics work across large-scale datasets, repeatable ETL pipelines, interactive dashboards, and visualization workflows. Reduced manual analysis time by about 30% and improved iteration speed by about 20%.
+
+### Global Health Impact Project
+
+Automated data ingestion and transformation workflows in Python, improving reporting consistency and reducing manual processing effort by about 30%.
+
+### Mehta Enterprise
+
+Designed a MySQL-backed inventory analytics system with real-time tracking, query performance improvements, low-stock monitoring, and validated billing workflows.
+
+### First Plan Business
+
+Supported strategic financial planning with detailed data analysis, financial interpretation, and analytical problem solving.
 
 ## ATS Snapshot
 
 ```text
-Target Roles: Data Analyst, Junior Data Analyst, BI Analyst, Product Analyst
-Core Skills: SQL, Power BI, Python, Pandas, PostgreSQL, Azure, Excel, GitHub
-Analysis Work: KPI design, dashboard development, reporting, data cleaning, exploratory data analysis
-Data Strengths: joins, aggregations, business metrics, documentation, stakeholder communication
-Open Source: Apache Superset, Supabase, DuckDB, Tabularis, GitHub contribution workflows
+Target Roles: Data Analyst, Business Intelligence Analyst, BI Analyst, Product Analyst, Analytics Analyst
+Core Skills: SQL, Python, Power BI, Excel, Power Query, DAX, Pandas, NumPy
+Databases: PostgreSQL, MySQL, SQL Server, MongoDB
+Cloud and Data: Microsoft Azure, Azure Data Fundamentals, ETL, data pipelines, REST APIs
+Analysis: data cleaning, data modeling, dashboard development, KPI analysis, reporting, EDA
+Business Impact: process automation, reporting efficiency, data quality, operational insights
+Open Source: Apache Superset, Supabase, DuckDB, Tabularis, GitHub workflows
 ```
+
+## Current Focus
+
+I am pursuing full-time Data Analyst, Business Intelligence Analyst, and Analytics roles where I can use data to improve products, optimize operations, and support strategic decisions.
 
 <table>
   <tr>
     <td valign="top" width="50%">
 
-### Dashboard Mindset
+### What I Bring
 
-I design dashboards around decisions: the metric, the comparison, the movement, and the action someone can take next.
+Clear SQL, practical Python, dashboard storytelling, data quality discipline, and business-readable recommendations.
 
   </td>
     <td valign="top" width="50%">
 
-### Analyst Mindset
+### What I Am Building Toward
 
-I write analysis so another person can follow the logic: assumptions are visible, metrics are named clearly, and recommendations connect back to evidence.
+Modern BI, cloud analytics, AI-enabled database solutions, stronger data modeling, and open-source analytics contribution.
 
   </td>
   </tr>
 </table>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=DhruvShah-Dev&hide_border=true&background=0f172a&ring=14b8a6&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=e5e7eb&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" alt="Dhruv Shah GitHub contribution streak" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=10&color=111111&section=footer&animation=fadeIn" alt="" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0F172A,45:0F766E,100:F59E0B&section=footer&animation=twinkling" alt="" width="100%" />
-</p>
-
-<h2 align="center">Open to Data Analyst, Junior Data Analyst, BI Analyst, and Product Analyst roles.</h2>
+<h2 align="center">Open to Data Analyst, Business Intelligence Analyst, BI Analyst, Product Analyst, and Analytics Analyst roles.</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhruvshah-ai/">LinkedIn</a>
