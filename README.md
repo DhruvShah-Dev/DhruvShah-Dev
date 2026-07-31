@@ -63,6 +63,59 @@ It is built around data insight: compare race conditions, understand driver and 
   </tr>
 </table>
 
+<br />
+
+<h2 align="center">Contributions</h2>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/DhruvShah-Dev/superset">
+        <img src="https://img.shields.io/badge/Apache%20Superset-E10600?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Superset" />
+      </a>
+      <br />
+      BI, dashboards, and data exploration.
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/DhruvShah-Dev/supabase">
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=111111" alt="Supabase" />
+      </a>
+      <br />
+      Postgres-backed data platforms.
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/DhruvShah-Dev/duckdb-web">
+        <img src="https://img.shields.io/badge/DuckDB-F2C811?style=for-the-badge&logo=duckdb&logoColor=111111" alt="DuckDB Web" />
+      </a>
+      <br />
+      Analytics database documentation.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/DhruvShah-Dev/tabularis">
+        <img src="https://img.shields.io/badge/Tabularis-111111?style=for-the-badge&logo=sqlite&logoColor=white" alt="Tabularis" />
+      </a>
+      <br />
+      SQL workspaces and notebooks.
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/DhruvShah-Dev/first-contributions">
+        <img src="https://img.shields.io/badge/First%20Contributions-111111?style=for-the-badge&logo=github&logoColor=white" alt="First Contributions" />
+      </a>
+      <br />
+      Open-source contribution workflow.
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/DhruvShah-Dev/oppia">
+        <img src="https://img.shields.io/badge/Oppia-217346?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Oppia" />
+      </a>
+      <br />
+      Learning platform contribution.
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <a href="https://github.com/DhruvShah-Dev?tab=repositories">
     <img src="https://img.shields.io/badge/More%20Projects-111111?style=for-the-badge&logo=github&logoColor=white" alt="More projects" />

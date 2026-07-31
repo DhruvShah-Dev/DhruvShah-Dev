@@ -1,6 +1,58 @@
-<svg width="1100" height="150" viewBox="0 0 1100 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Dhruv Shah</title>
-  <desc id="desc">Dhruv Shah centered in an Impact style font</desc>
-  <rect width="1100" height="150" fill="transparent"/>
-  <text x="550" y="105" text-anchor="middle" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="92" letter-spacing="1" fill="#111111">DHRUV SHAH</text>
+  <desc id="desc">Dhruv Shah centered over an animated dark analytics background</desc>
+
+  <rect width="1200" height="260" rx="28" fill="#070707"/>
+  <rect x="18" y="18" width="1164" height="224" rx="20" fill="#111111" stroke="#2A2A2A" stroke-width="2"/>
+
+  <g opacity="0.9">
+    <path d="M0 52H1200" stroke="#1F1F1F" stroke-width="1"/>
+    <path d="M0 104H1200" stroke="#1F1F1F" stroke-width="1"/>
+    <path d="M0 156H1200" stroke="#1F1F1F" stroke-width="1"/>
+    <path d="M0 208H1200" stroke="#1F1F1F" stroke-width="1"/>
+    <path d="M120 0V260" stroke="#1F1F1F" stroke-width="1"/>
+    <path d="M240 0V260" stroke="#1F1F1F" stroke-width="1"/>
+    <path d="M360 0V260" stroke="#1F1F1F" stroke-width="1"/>
+    <path d="M480 0V260" stroke="#1F1F1F" stroke-width="1"/>
+    <path d="M600 0V260" stroke="#1F1F1F" stroke-width="1"/>
+    <path d="M720 0V260" stroke="#1F1F1F" stroke-width="1"/>
+    <path d="M840 0V260" stroke="#1F1F1F" stroke-width="1"/>
+    <path d="M960 0V260" stroke="#1F1F1F" stroke-width="1"/>
+    <path d="M1080 0V260" stroke="#1F1F1F" stroke-width="1"/>
+  </g>
+
+  <g opacity="0.65">
+    <rect x="80" y="176" width="26" height="36" fill="#E10600">
+      <animate attributeName="height" values="36;74;36" dur="3.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="176;138;176" dur="3.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="118" y="152" width="26" height="60" fill="#F2C811">
+      <animate attributeName="height" values="60;30;60" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="152;182;152" dur="2.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="156" y="130" width="26" height="82" fill="#217346">
+      <animate attributeName="height" values="82;112;82" dur="3.6s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="130;100;130" dur="3.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="194" y="164" width="26" height="48" fill="#FFFFFF">
+      <animate attributeName="height" values="48;86;48" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="164;126;164" dur="3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g opacity="0.65">
+    <path d="M946 190L994 138L1032 158L1086 88L1136 114" stroke="#F2C811" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <animate attributeName="stroke-dasharray" values="0 420;420 0;420 0" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="994" cy="138" r="7" fill="#F2C811"/>
+    <circle cx="1032" cy="158" r="7" fill="#217346"/>
+    <circle cx="1086" cy="88" r="7" fill="#E10600"/>
+  </g>
+
+  <rect x="-220" y="0" width="170" height="260" fill="#FFFFFF" opacity="0.07" transform="skewX(-18)">
+    <animate attributeName="x" values="-220;1280" dur="5.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="600" y="137" text-anchor="middle" dominant-baseline="middle" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="112" letter-spacing="2" fill="#FFFFFF">DHRUV SHAH</text>
+  <text x="600" y="198" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="7" fill="#F2C811">DATA ANALYST</text>
 </svg>
