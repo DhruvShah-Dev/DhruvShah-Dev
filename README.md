@@ -72,49 +72,35 @@ It analyzes 369K+ laps, 13K+ race results, and 48K+ stint records across 663 ses
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/DhruvShah-Dev/superset">
-        <img src="https://img.shields.io/badge/Apache%20Superset-E10600?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Superset" />
-      </a>
-      <br />
-      BI, dashboards, and data exploration.
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/DhruvShah-Dev/supabase">
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=111111" alt="Supabase" />
-      </a>
-      <br />
-      Postgres-backed data platforms.
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/DhruvShah-Dev/duckdb-web">
-        <img src="https://img.shields.io/badge/DuckDB-F2C811?style=for-the-badge&logo=duckdb&logoColor=111111" alt="DuckDB Web" />
-      </a>
-      <br />
-      Analytics database documentation.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/DhruvShah-Dev/tabularis">
+    <td align="center" width="50%">
+      <a href="https://github.com/TabularisDB/tabularis/pulls?q=is%3Apr+author%3ADhruvShah-Dev+is%3Amerged">
         <img src="https://img.shields.io/badge/Tabularis-111111?style=for-the-badge&logo=sqlite&logoColor=white" alt="Tabularis" />
       </a>
       <br />
-      SQL workspaces and notebooks.
+      Merged fixes for SQL workspaces, visual query flows, schema selection, and database UI behavior.
     </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/DhruvShah-Dev/first-contributions">
+    <td align="center" width="50%">
+      <a href="https://github.com/duckdb/duckdb-web/pulls?q=is%3Apr+author%3ADhruvShah-Dev+is%3Amerged">
+        <img src="https://img.shields.io/badge/DuckDB-F2C811?style=for-the-badge&logo=duckdb&logoColor=111111" alt="DuckDB Web" />
+      </a>
+      <br />
+      Merged documentation fixes for DuckDB SQL behavior and configuration scope.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/AltioraLabs/beliefstate/pull/53">
+        <img src="https://img.shields.io/badge/BeliefState-217346?style=for-the-badge&logo=python&logoColor=white" alt="BeliefState" />
+      </a>
+      <br />
+      Merged DuckDB store backend for durable local agent state.
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/firstcontributions/first-contributions/pull/117493">
         <img src="https://img.shields.io/badge/First%20Contributions-111111?style=for-the-badge&logo=github&logoColor=white" alt="First Contributions" />
       </a>
       <br />
-      Open-source contribution workflow.
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/DhruvShah-Dev/oppia">
-        <img src="https://img.shields.io/badge/Oppia-217346?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Oppia" />
-      </a>
-      <br />
-      Learning platform contribution.
+      Merged contributor-list update in the open-source onboarding project.
     </td>
   </tr>
 </table>
