@@ -6,7 +6,7 @@
   <img src="./assets/dhruv-shah-impact.svg" alt="Dhruv Shah" width="720" />
 </p>
 
-<h2 align="center">Data Analyst | Open Source Contributor</h2>
+<h2 align="center">Data Analyst | Business Intelligence | Reporting Analyst</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
@@ -27,6 +27,9 @@
   <a href="https://github.com/DhruvShah-Dev?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="./Data_Analytics_BI_Intern_Dhruv_Shah.pdf">
+    <img src="https://img.shields.io/badge/Resume-E10600?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
+  </a>
 </p>
 
 <br />
@@ -44,11 +47,11 @@
 
 ### Formula 1 Analytics Dashboard
 
-F1 InsightX turns race-week signals, standings, session context, and performance patterns into a decision-focused analytics experience.
+F1-InsightX is a flagship motorsport analytics app built to explore race-week context, telemetry, strategy signals, and championship movement.
 
-It is built around data insight: compare race conditions, understand driver and constructor movement, evaluate strategy context, and make Formula 1 data easier to explore.
+It analyzes 369K+ laps, 13K+ race results, and 48K+ stint records across 663 sessions, turning Formula 1 data into clear driver, team, circuit, and performance insights.
 
-**Data focus:** `analytics` `dashboards` `strategy simulation` `performance comparison` `decision support`
+**Data focus:** `telemetry analytics` `race strategy` `driver comparison` `constructor standings` `data visualization`
 
 <p>
   <a href="https://f1-insightx.vercel.app">
