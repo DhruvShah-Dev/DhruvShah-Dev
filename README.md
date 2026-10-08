@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/dhruv-shah-impact.svg" alt="Dhruv Shah — Data Analyst" width="800" />
-</p>
-
 <h1 align="center">Dhruv Shah · Data Analyst</h1>
 
 <p align="center">
