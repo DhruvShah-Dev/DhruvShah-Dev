@@ -1,151 +1,93 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DhruvShah-Dev&label=PROFILE%20VIEWS&color=111111&style=for-the-badge" alt="Profile views" />
+  <img src="./assets/dhruv-shah-impact.svg" alt="Dhruv Shah — Data Analyst" width="800" />
+</p>
+
+<h1 align="center">Dhruv Shah · Data Analyst</h1>
+
+<p align="center">
+  I clean and connect messy data, test what the numbers mean, and build reporting that helps people make decisions.
 </p>
 
 <p align="center">
-  <img src="./assets/dhruv-shah-impact.svg" alt="Dhruv Shah" width="720" />
-</p>
-
-<h2 align="center">Data Analyst | BI Analyst | Reporting Analyst | Analytics Intern</h2>
-
-<p align="center">
-  SQL, Python, Power BI, Streamlit, Excel, dashboarding, KPI reporting, healthcare analytics, and financial risk analytics.
+  <strong>SQL · Python · Excel · Power BI · PostgreSQL · Streamlit</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/DuckDB-F2C811?style=for-the-badge&logo=duckdb&logoColor=111111" alt="DuckDB" />
+  <a href="./Data_Analyst_Resume_Dhruv_Shah.pdf"><strong>Data Analyst resume</strong></a>
+  &nbsp;·&nbsp;
+  <a href="./BI_Resume_Dhruv_Shah.pdf">Business Intelligence resume</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/dhruvshah-ai/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:dhruv.shah.ai@gmail.com">Email</a>
 </p>
+
+## What I work on
+
+- **Analysis:** SQL queries, Python and Pandas, data cleaning, validation, statistical analysis, and investigation of trends and outliers.
+- **Reporting:** Excel KPI reports, executive workbooks, dashboards, metric definitions, and clear explanations of findings.
+- **Data foundations:** ETL, reconciliation, dimensional modeling, and reproducible analytical datasets.
+
+My experience spans operational reporting at R&P Consultants, WHO data analysis at Global Health Impact, and research data workflows at Binghamton University. The projects below show the methods and deliverables in more detail.
+
+## Selected data analysis projects
+
+### 01 · CMS Hospital Readmissions
+
+**Question:** Where are the strongest opportunities to reduce 30-day hospital readmissions?
+
+Analyzed **11,720 hospital-condition records** from CMS data. Built a cleaned dataset, reusable SQL views, statistical comparisons, and an opportunity score that combines excess readmission performance with patient volume. Deliverables include a Streamlit dashboard and an Excel executive workbook.
+
+**Methods:** SQL · Python · Pandas · SciPy · Excel · Streamlit
+
+[Explore the analysis and dashboard code](https://github.com/DhruvShah-Dev/cms-hospital-readmissions-analysis)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhruvshah-ai/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:dhruv.shah.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFFFFF&color=FFFFFF" alt="Email" />
-  </a>
-  <a href="https://github.com/DhruvShah-Dev?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="./Data_Analytics_BI_Intern_Dhruv_Shah.pdf">
-    <img src="https://img.shields.io/badge/Resume-E10600?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
-  </a>
-</p>
-
-<br />
-
-## What I Do
-
-- Build SQL and Python analytics workflows that turn raw data into clean, decision-ready datasets.
-- Design BI dashboards, KPI reports, and executive summaries for healthcare, finance, operations, and product-style questions.
-- Use statistical analysis, data cleaning, and stakeholder-focused storytelling to explain performance, risk, and opportunity.
-- Create reproducible analytics projects with documented data sources, metric definitions, and refreshable pipelines.
-
-## Featured Analytics Projects
-
-### CMS Hospital Readmissions Opportunity Analysis
-
-Healthcare analytics case study using CMS HRRP and Hospital General Information data to identify 30-day readmission reduction opportunities.
-
-**Focus:** `healthcare analytics` `CMS data` `SQL` `Python` `Streamlit` `statistical analysis` `hospital benchmarking`
-
-**Highlights**
-- Built a cleaned hospital-condition analytic dataset and SQL layer for national, condition, state, ownership, rating, and opportunity analysis.
-- Developed an opportunity score using excess readmission performance and patient volume to prioritize intervention targets.
-- Created a Streamlit dashboard with KPI cards, U.S. map, hospital benchmarking, business Q&A, and downloadable detail table.
-
-<p>
   <a href="https://github.com/DhruvShah-Dev/cms-hospital-readmissions-analysis">
-    <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" alt="CMS hospital readmissions project" />
+    <img src="./assets/cms-condition-opportunity.png" alt="Bar chart of positive readmission opportunity score by condition, led by pneumonia and heart failure" width="760" />
   </a>
 </p>
 
-### U.S. Banking Risk Analysis
+### 02 · U.S. Banking Risk
 
-Financial analytics dashboard and reproducible pipeline for assessing U.S. bank risk, profitability, funding pressure, and macro-rate sensitivity.
+**Question:** How do credit, funding, capital, profitability, and interest-rate trends shape bank risk?
 
-**Focus:** `financial risk analytics` `FDIC data` `FRED data` `DuckDB` `SQL` `Python` `Streamlit` `KPI reporting`
+Built a reproducible FDIC and FRED analysis pipeline and a peer-relative risk framework. Used SQL and Python to compare institutions, identify watchlist candidates, and explain risk and performance trends. Deliverables include a Streamlit dashboard and an Excel analysis workbook. The score is a research triage measure, not a regulatory rating.
 
-**Highlights**
-- Built a peer-relative risk framework with credit, funding/liquidity, capital weakness, and profitability weakness components.
-- Analyzed FDIC bank-quarter financials alongside macro-rate context from FRED.
-- Created dashboard pages for executive overview, bank drilldown, risk/performance matrix, credit and funding risk, and macro impact.
+**Methods:** SQL · Python · DuckDB · FDIC · FRED · Excel · Streamlit
 
-<p>
+[Explore the risk framework and reports](https://github.com/DhruvShah-Dev/us-banking-risk-analysis)
+
+<p align="center">
   <a href="https://github.com/DhruvShah-Dev/us-banking-risk-analysis">
-    <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" alt="U.S. banking risk analysis project" />
+    <img src="./assets/banking-risk-performance.png" alt="Scatterplot of bank risk score against performance score with four peer comparison groups" width="760" />
   </a>
 </p>
 
-### F1-InsightX
+### 03 · F1 InsightX
 
-Formula 1 analytics platform for race strategy, driver performance, telemetry-derived insights, and data visualization.
+**Question:** How can race, lap, stint, and telemetry data become useful race-week analysis?
 
-**Focus:** `data visualization` `telemetry analytics` `race strategy` `driver comparison` `TypeScript` `Vercel`
+An interactive Formula 1 product with race reports, driver comparisons, strategy views, and championship analysis. Its data pipeline validates source inputs and builds product views from race results, session context, timing, and telemetry.
 
-**Highlights**
-- Analyzes 369K+ laps, 13K+ race results, and 48K+ stint records across 663 sessions.
-- Turns Formula 1 data into driver, team, circuit, and performance insights.
-- Includes a live analytics app for exploring race-week context and championship movement.
+**Methods:** Python data pipeline · TypeScript · React · Supabase · Data visualization
 
-<p>
-  <a href="https://f1-insightx.vercel.app">
-    <img src="https://img.shields.io/badge/Live%20Project-E10600?style=for-the-badge&logo=vercel&logoColor=white" alt="F1-InsightX live project" />
-  </a>
+[Open the live app](https://www.f1insightx.live/) · [Explore the source](https://github.com/DhruvShah-Dev/f1-insightx)
+
+<p align="center">
   <a href="https://github.com/DhruvShah-Dev/f1-insightx">
-    <img src="https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=white" alt="F1-InsightX source code" />
+    <img src="./assets/f1-race-analysis.png" alt="F1 InsightX Azerbaijan Grand Prix report with race result and circuit visualization" width="760" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://f1-insightx.vercel.app">
-    <img src="./assets/f1-insightx-screenshot.png" alt="F1 InsightX analytics dashboard screenshot" width="720" />
-  </a>
-</p>
+## Open-source data tooling
 
-## Open Source Contributions
+- [Tabularis](https://github.com/TabularisDB/tabularis/pulls?q=is%3Apr+author%3ADhruvShah-Dev+is%3Amerged) — SQL workspace and database interface contributions.
+- [DuckDB Web](https://github.com/duckdb/duckdb-web/pulls?q=is%3Apr+author%3ADhruvShah-Dev+is%3Amerged) — documentation fixes for SQL behavior and configuration.
+- [BeliefState](https://github.com/AltioraLabs/beliefstate/pull/53) — a DuckDB store backend for durable local state.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/TabularisDB/tabularis/pulls?q=is%3Apr+author%3ADhruvShah-Dev+is%3Amerged">
-        <img src="https://img.shields.io/badge/Tabularis-111111?style=for-the-badge&logo=sqlite&logoColor=white" alt="Tabularis" />
-      </a>
-      <br />
-      SQL workspace, visual query flow, schema selection, and database UI fixes.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/duckdb/duckdb-web/pulls?q=is%3Apr+author%3ADhruvShah-Dev+is%3Amerged">
-        <img src="https://img.shields.io/badge/DuckDB%20Web-F2C811?style=for-the-badge&logo=duckdb&logoColor=111111" alt="DuckDB Web" />
-      </a>
-      <br />
-      Documentation fixes for DuckDB SQL behavior and configuration scope.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/AltioraLabs/beliefstate/pull/53">
-        <img src="https://img.shields.io/badge/BeliefState-217346?style=for-the-badge&logo=python&logoColor=white" alt="BeliefState" />
-      </a>
-      <br />
-      DuckDB store backend for durable local agent state.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/firstcontributions/first-contributions/pull/117493">
-        <img src="https://img.shields.io/badge/First%20Contributions-111111?style=for-the-badge&logo=github&logoColor=white" alt="First Contributions" />
-      </a>
-      <br />
-      Contributor-list update in an open-source onboarding project.
-    </td>
-  </tr>
-</table>
+## Connect
 
-<p align="center">
-  <a href="https://github.com/DhruvShah-Dev?tab=repositories">
-    <img src="https://img.shields.io/badge/More%20Projects-111111?style=for-the-badge&logo=github&logoColor=white" alt="More projects" />
-  </a>
-</p>
+I am open to Data Analyst, Reporting Analyst, and Business Intelligence Analyst roles. I am based in Binghamton, NY and open to relocating.
+
+**[Download my Data Analyst resume](./Data_Analyst_Resume_Dhruv_Shah.pdf)** · [BI resume](./BI_Resume_Dhruv_Shah.pdf) · [LinkedIn](https://www.linkedin.com/in/dhruvshah-ai/) · [Email](mailto:dhruv.shah.ai@gmail.com)
