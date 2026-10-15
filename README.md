@@ -76,6 +76,12 @@ An interactive Formula 1 product with race reports, driver comparisons, strategy
   </a>
 </p>
 
+## More analysis projects
+
+- [Municipal payroll comparison](https://github.com/DhruvShah-Dev/municipal-payroll-comparison) — compares 2024–2025 overtime and reported pay in NYC, Chicago, and San Francisco using official city data, with source-specific comparability notes.
+- [Measles immunization atlas](https://github.com/DhruvShah-Dev/measles-immunization-atlas) — explores WHO immunization and measles data through interactive maps, country screening, and data-quality checks.
+- [Historical trading strategy research](https://github.com/DhruvShah-Dev/historical-trading-strategy-research) — tests stock and ETF rules on a shared holdout window and reports model calibration, costs, and research limits.
+
 ## Open-source data tooling
 
 - [Tabularis](https://github.com/TabularisDB/tabularis/pulls?q=is%3Apr+author%3ADhruvShah-Dev+is%3Amerged) — SQL workspace and database interface contributions.
